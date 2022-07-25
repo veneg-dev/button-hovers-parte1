@@ -2,12 +2,12 @@
 <h3 align="center">Este repositorio es para que veáis como se pueden crear diferentes hovers.</h3>
 <h3>Como instalar los iconos</h3>
 <p align="left">
-cogeremos y pegaremos estos dos script
-<br/>
+Cogeremos y pegaremos estos dos script
+<br/><br/>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <br/>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-<br/>
+<br/><br/>
 ya una vez pegados en el body colocaremos  <ion-icon name="chatbox-outline" /> donde
 name es el nombre del icono para ello nos dirijimos https://ionic.io/ionicons y buscamos el icono que queremos y solo basta 
 con poner el nombre de ese icono en name.
